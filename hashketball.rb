@@ -53,14 +53,26 @@ def game_hash
           :steals => 4,
           :blocks => 11,
           :slam_dunks => 1
-        },          
-        
+        }
       ],
     },
     :away => {
-      :team_name =>"",
-      :colors =>[],
-      :players =>[{}],
+      :team_name =>"Charlotte Hornets",
+      :colors =>["turquoise", "purple"],
+      :players =>[
+        { :player_name => "",
+          :number => ,
+          :shoe => ,
+          :points => ,
+          :rebounds => ,
+          :assists => ,
+          :steals => ,
+          :blocks => ,
+          :slam_dunks => 
+        },          
+          
+        }
+        ],
     }
   }
 end
